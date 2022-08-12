@@ -320,20 +320,11 @@ input[type=submit]:hover {
 .about {
   color: rgb(137, 194, 206);
   font-family: cursive;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 50px;
-  text-align: justify;
+  text-align: center;
   border: 2px solid  rgb(91, 164, 176);
   width: 70%;
-  margin-left: 150px;
+  margin: auto;
   background-color: white;
-  }
-
-{
-  color: rgb(91, 164, 176);
-  font-family: cursive;
-  font-size: 30px;
-  text-align: center
-  
-  ;
   }
