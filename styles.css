@@ -165,7 +165,7 @@ body {
   z-index:2;
 }
 #slide5:before {
-  background-image: url("Scotland.jpeg");
+  background-image: url("scotland.jpeg");
   transform: translateZ(-1px) scale(2);
 }
 #slide6 {
